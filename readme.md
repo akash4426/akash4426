@@ -1,33 +1,32 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#00A3FF;">Akash Karri</span></h1>
-<h3 align="center">Cybersecurity • AI/ML • Federated Learning • MERN • Automation</h3>
+<h1 align="center">Hi 👋, I'm Akash Reddy</h1>
+<h3 align="center">Cybersecurity | AI/ML | Federated Learning | MERN Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkashReddy&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=akash4426&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 **B.Tech Cybersecurity**  
-- 🤖 AI + Security researcher focused on **osquery + Federated Learning**  
-- 🔐 Building **Privilege Escalation & Lateral Movement Detection Models**  
-- 🧠 Works with **CLIP, FastAPI, Gemini, LangChain, Flower**  
-- ⚙️ Automations wizard → **n8n + Google Sheets + Python systems**  
-- 🌐 Also into **MERN stack (MongoDB, Express, React, Node)**  
-- 🧪 Passionate about **LLM systems, AI Security, and Automation**
+## 🧑‍💻 About Me
+- 🎓 B.Tech Cybersecurity (4th Semester)  
+- 🔐 Working on *Privilege Escalation* & *Lateral Movement Detection* using **osquery + Federated Learning**  
+- 🤖 Building **RAG systems**, **CLIP-based Video + Text pipelines**, and **FastAPI AI services**  
+- 🌐 MERN stack developer (React, Node, Express, MongoDB)  
+- ⚙️ Automations using **n8n + Google Sheets + Python**  
+- 🧩 Passionate about **AI Security, ML, Automation, and Scalable Systems**  
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### **Languages**
+### **Core Languages**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Java&logoColor=white"/>
 </p>
 
 ---
@@ -57,54 +56,56 @@
 <p>
 <img src="https://img.shields.io/badge/n8n-A100FF?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Current Work
-- 🔥 **Federated Threat Detection Models**  
-- 🛡️ **osquery-based Privilege Escalation & Lateral Movement ML**  
-- 🧩 **Video + Text RAG using CLIP + Gemini**  
-- 📈 **Attendance Automation System using n8n + Sheets**  
-- 🌐 **Building MERN-based dashboards & tools**
+## 📌 Current Work
+- 🚀 Federated ML for **Privilege Escalation Detection**  
+- ⚡ Federated ML for **Lateral Movement Detection**  
+- 📊 **Benign OS Activity Classifier** using osquery logs  
+- 🎥 **Video + Text RAG** using CLIP + Gemini  
+- 🔧 **Attendance Automation** (n8n + Google Sheets)  
+- 🌐 MERN dashboards & full-stack tools  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashReddy&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashReddy&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akash4426&show_icons=true&theme=transparent" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=akash4426&theme=transparent" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashReddy&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash4426&layout=compact&theme=transparent" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-- Built **AI + Cybersecurity research-grade models**  
-- Created **RAG systems, automation pipelines, security tools**  
-- Experience with **Federated Learning + osquery**  
-- MERN projects with **React frontends + Node/Express APIs**
+- Built **research-level federated threat detection models**  
+- Developed **RAG systems + CLIP-based pipelines**  
+- Created **clean MERN + FastAPI projects**  
+- Automated real workflows using **n8n**  
+- Strong base in **OS, Networking & Security concepts**
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## ✨ Fun Fact  
-I love mixing **AI + Cybersecurity + Web Dev** and building futuristic tools.
+## ✨ Fun Insight  
+I enjoy building systems where **AI + Cybersecurity + Automation** work together seamlessly.
 
 ---
 
-<h3 align="center">⭐ “You're not competing with others. You're competing with your future self.”</h3>
+<h3 align="center">“Professional isn't how it looks — it's how consistently you build.”</h3>
