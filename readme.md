@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Reddy</h1>
+<h1 align="center">Hi 👋, I'm Akash Karri</h1>
 <h3 align="center">Cybersecurity | AI/ML | Federated Learning | MERN Developer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech Cybersecurity (4th Semester)  
+- 🎓 **B.Tech Cybersecurity** 
 - 🔐 Working on *Privilege Escalation* & *Lateral Movement Detection* using **osquery + Federated Learning**  
 - 🤖 Building **RAG systems**, **CLIP-based Video + Text pipelines**, and **FastAPI AI services**  
 - 🌐 MERN stack developer (React, Node, Express, MongoDB)  
@@ -97,8 +97,8 @@
 ## 🌍 Connect With Me
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="www.linkedin.com/in/kakashreddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="akashkarri2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
