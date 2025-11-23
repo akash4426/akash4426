@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#00A3FF;">Akash Reddy</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00A3FF;">Akash Karri</span></h1>
 <h3 align="center">Cybersecurity • AI/ML • Federated Learning • MERN • Automation</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Tech Cybersecurity (4th Semester)**  
+- 🎓 **B.Tech Cybersecurity**  
 - 🤖 AI + Security researcher focused on **osquery + Federated Learning**  
 - 🔐 Building **Privilege Escalation & Lateral Movement Detection Models**  
 - 🧠 Works with **CLIP, FastAPI, Gemini, LangChain, Flower**  
@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Java&logoColor=white"/>
 </p>
 
 ---
