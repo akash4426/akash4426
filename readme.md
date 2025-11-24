@@ -96,7 +96,7 @@
 
 ## 🌍 Connect With Me
 <p>
-<a href="https://portfolio-ruddy-eta-50.vercel.app/">
+<a href="https://akash-karri.vercel.app/#">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
