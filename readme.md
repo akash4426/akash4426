@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Who Am I?
+## Who Am I?
 
 Hey! I'm Akash, a **Cybersecurity** student who loves merging **AI with Security** to build smarter, safer systems. I believe in learning by building — from federated threat detection models to full-stack web apps and automation workflows.
 
@@ -27,7 +27,7 @@ current_status:
 
 ---
 
-## 🔥 What I'm Building Right Now
+## What I'm Building Right Now
 
 <table>
   <tr>
